@@ -1,0 +1,34 @@
+How many books do you want to stack? 6
+Enter the name of the books you want to place from bottom to top: 
+To Kill A Mocking Bird
+Kite Runner
+The Compound Effect
+Da Vinci Code
+Angels & Demons
+The Alchemist
+ 
+The list of the books stacked from top to bottom is: 
+The Alchemist 
+Angels & Demons 
+Da Vinci Code 
+The Compound Effect 
+Kite Runner 
+To Kill A Mocking Bird 
+ 
+There are 7 books in the pile.
+ 
+Removing the book on the top i.e. The Alchemist
+ 
+The list of the books stacked from top to bottom is: 
+Angels & Demons 
+Da Vinci Code 
+The Compound Effect 
+Kite Runner 
+To Kill A Mocking Bird 
+ 
+Is the pile empty? false
+Clearing the pile...
+The pile has been cleared
+The list of the books stacked from top to bottom is: 
+ 
+Is the pile empty? true

@@ -1,0 +1,6 @@
+The bag of 'letter' contains 12 vowels.
+The bag of 'letter' contains 4 a.
+The bag of 'letter' contains 0 e.
+The bag of 'letter' contains 3 i.
+The bag of 'letter' contains 3 o.
+The bag of 'letter' contains 2 u.
